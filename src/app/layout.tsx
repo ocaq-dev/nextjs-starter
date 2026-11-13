@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter — Ocaq Cloud",
+  title: "Next.js Starter — Ocaq Dev",
   description:
-    "Production-ready Next.js App Router starter optimized for seamless deployment on Ocaq Cloud.",
+    "Production-ready Next.js App Router starter optimized for seamless deployment on Ocaq Dev.",
   icons: {
     icon: "/logo-white.png",
   },
