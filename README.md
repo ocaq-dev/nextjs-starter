@@ -5,11 +5,11 @@
   <img alt="Ocaq Logo" src="./public/logo-black.png" width="72" height="72">
 </picture>
 
-# Next.js Starter · Ocaq Cloud
+# Next.js Starter · Ocaq Dev
 
-A clean, production-ready starter template for [Next.js 15](https://nextjs.org/) App Router, pre-configured for automated deployment on [Ocaq Cloud](https://ocaq.dev).
+A clean, production-ready starter template for [Next.js 15](https://nextjs.org/) App Router, pre-configured for automated deployment on [Ocaq Dev](https://ocaq.dev).
 
-[![Deploy to Ocaq](https://img.shields.io/badge/Deploy%20to-Ocaq%20Cloud-black?style=for-the-badge&logoColor=white)](https://ocaq.dev/dashboard/new)
+[![Deploy to Ocaq](https://img.shields.io/badge/Deploy%20to-Ocaq%20Dev-black?style=for-the-badge&logoColor=white)](https://ocaq.dev/dashboard/new)
 [![Next.js 15](https://img.shields.io/badge/Next.js-15.1-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![React 19](https://img.shields.io/badge/React-19.0-20232a?style=flat-square&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
@@ -49,7 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## Deploy to Ocaq Cloud
+## Deploy to Ocaq Dev
 
 ### Option 1: Via Ocaq Dashboard (Recommended)
 
@@ -99,5 +99,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## License
 
-MIT © [Ocaq Cloud](https://ocaq.dev)
+MIT © [Ocaq Dev](https://ocaq.dev)
 
