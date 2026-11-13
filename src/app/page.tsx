@@ -79,7 +79,7 @@ export default function Home() {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-border bg-muted/60 text-xs font-medium text-foreground mb-6 shadow-xs">
             <Rocket className="w-3.5 h-3.5 text-foreground" />
-            <span>Next.js 15 App Router · Ocaq Cloud Starter</span>
+            <span>Next.js 15 App Router · Ocaq Dev Starter</span>
           </div>
 
           {/* Headline */}
@@ -90,7 +90,7 @@ export default function Home() {
           {/* Subtitle */}
           <p className="mt-5 text-base sm:text-lg text-muted-foreground max-w-2xl leading-relaxed">
             A production-ready foundation with React 19 Server Components, TypeScript,
-            and Tailwind CSS. Configured for zero-overhead container builds on Ocaq Cloud.
+            and Tailwind CSS. Configured for zero-overhead container builds on Ocaq Dev.
           </p>
 
           {/* CTA Buttons */}
@@ -233,7 +233,7 @@ export default function Home() {
                 target="_blank"
                 className="font-medium text-foreground hover:underline"
               >
-                Ocaq Cloud
+                Ocaq Dev
               </Link>
             </span>
           </div>
